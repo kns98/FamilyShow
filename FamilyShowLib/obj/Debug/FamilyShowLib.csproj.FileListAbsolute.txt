@@ -1,0 +1,6 @@
+C:\Users\kevin\source\Repos\kns98\FamilyShow\FamilyShowLib\bin\Debug\FamilyShowLib.dll
+C:\Users\kevin\source\Repos\kns98\FamilyShow\FamilyShowLib\bin\Debug\FamilyShowLib.pdb
+C:\Users\kevin\source\Repos\kns98\FamilyShow\FamilyShowLib\obj\Debug\FamilyShowLib.csproj.AssemblyReference.cache
+C:\Users\kevin\source\Repos\kns98\FamilyShow\FamilyShowLib\obj\Debug\FamilyShowLib.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\Repos\kns98\FamilyShow\FamilyShowLib\obj\Debug\FamilyShowLib.dll
+C:\Users\kevin\source\Repos\kns98\FamilyShow\FamilyShowLib\obj\Debug\FamilyShowLib.pdb
